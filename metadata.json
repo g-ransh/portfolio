@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Cinematic Portfolio",
+  "description": "A cinematic, Minecraft-inspired portfolio featuring atmospheric 3D environments and smooth transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
